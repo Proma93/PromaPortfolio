@@ -10,5 +10,23 @@
             "name": "Open index.html",
             "file": "c:\\Users\\ahmed\\PromaPortfolio\\dist\\index.html"
         }
+         {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open about.html",
+            "file": "c:\\Users\\ahmed\\PromaPortfolio\\dist\\about.html"
+        }
+         {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open contact.html",
+            "file": "c:\\Users\\ahmed\\PromaPortfolio\\dist\\contact.html"
+        }
+         {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open work.html",
+            "file": "c:\\Users\\ahmed\\PromaPortfolio\\dist\\work.html"
+        }
     ]
 }
